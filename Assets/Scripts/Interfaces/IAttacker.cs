@@ -1,0 +1,18 @@
+﻿using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public interface IAttacker
+{
+    void Attack();
+
+    public IUnit Target
+    {
+        set;
+    }
+
+    public bool CanAttack
+    {
+        get;
+    }
+}

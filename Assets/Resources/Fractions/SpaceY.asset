@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cab00d3f77e21ba4182ed3e5374529a5, type: 3}
+  m_Name: SpaceY
+  m_EditorClassIdentifier: 
+  fractionName: SpaceY
+  fractionAvatar: {fileID: 0}
+  units:
+  - name: SpaceY
+    prefab: {fileID: -4054844316489231372, guid: 0154dd0cbb2235c4488d5889bcfe3fea, type: 3}
+    avatar: {fileID: 1996238804905434026, guid: c4f84ffd3b44d7143a917e88545ac7f8, type: 3}
+    mode: {fileID: 0}
+    cost: 0
+    count: 1
+  - name: Droid
+    prefab: {fileID: -1281676142241934338, guid: acc71b8d88697a147bff7d842bdc2638, type: 3}
+    avatar: {fileID: 1996238804905434026, guid: c4f84ffd3b44d7143a917e88545ac7f8, type: 3}
+    mode: {fileID: 0}
+    cost: 0
+    count: 5
+  buildings:
+  - name: Main Station
+    prefab: {fileID: 7690425090294740984, guid: 9df60df62be8bc64db35e1a347464480, type: 3}
+    armor: 500
+    scale: {x: 4, y: 4}
+    cost: 0
+  - name: Casern
+    prefab: {fileID: -5004036968664658294, guid: 731f94a86fbaefc4c92751df5d7745e5, type: 3}
+    armor: 300
+    scale: {x: 3, y: 3}
+    cost: 0
+  - name: Wall
+    prefab: {fileID: 4233784203041096345, guid: 9eb4cb604ee18464aba3ae6a35dbed95, type: 3}
+    armor: 300
+    scale: {x: 1, y: 1}
+    cost: 0
+  - name: TowerCP
+    prefab: {fileID: -1722040676356899675, guid: fdcaef427d9efc4488b0acc20f7fea9f, type: 3}
+    armor: 420
+    scale: {x: 3, y: 3}
+    cost: 0
+  - name: TowerBP2
+    prefab: {fileID: -1722040676356899675, guid: c682ceb99e0b41340b09b83e76779d89, type: 3}
+    armor: 450
+    scale: {x: 3, y: 3}
+    cost: 0

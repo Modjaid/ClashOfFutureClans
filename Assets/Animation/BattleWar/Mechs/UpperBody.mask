@@ -1,0 +1,327 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: UpperBody
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Box001.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.002
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.002/Box001.007
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.002/rocket.L.001
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.002/rocket.L.001/Box001.023
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.002/rocket.L.001/rocket.L.Down
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.002/rocket.L.001/rocket.L.Down/Box001.024
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.002/rocket.L.001/rocket.L.Down/rocket.L.Down_end
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.Down.001
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.Down.001/Box001.025
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.Down.001/rocket.L.Down.001_end
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.Down.002
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.Down.002/Box001.026
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.L.Down.002/rocket.L.Down.002_end
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.002
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.002/Box001.008
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.002/rocket.R.003
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.002/rocket.R.003/Box001.027
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.002/rocket.R.003/rocket.R.003_end
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.002/rocket.R.004
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.002/rocket.R.004/Box001.028
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.002/rocket.R.004/rocket.R.004_end
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.005
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.005/Box001.029
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.005/rocket.R.006
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.005/rocket.R.006/Box001.030
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/body.C.005/rocket.R.005/rocket.R.006/rocket.R.006_end
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/body.C.002/Box001.013
+    m_Weight: 1
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/Box001.005
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.002/hlp.ik_holder.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.002/hlp.ik_holder.L.002/ctl.leg_pole.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.002/hlp.ik_holder.L.002/ctl.leg_pole.L.001/ctl.leg_pole.L.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/Box001.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/Box001.009
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/Box001.004
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.001/Box001.019
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.001/def.foot.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.001/def.foot.L.002/def.toe.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.001/def.foot.L.002/def.toe.L.001/Box001.015
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.001/def.foot.L.002/def.toe.L.001/def.toe.L.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.003/Box001.020
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.003/def.foot.L.004
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.003/def.foot.L.004/def.heel.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.003/def.foot.L.004/def.heel.L.001/Box001.014
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.003/def.leg.L.001/def.leg.L.002/def.leg.L.003/def.foot_main.L.001/def.foot.L.003/def.foot.L.004/def.heel.L.001/def.heel.L.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.004
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.004/Box001.011
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/def.hip_pivot.L.004/def.hip_pivot.L.004_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/hlp.ik_holder.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.L.001/hlp.ik_holder.L.001/hlp.ik_holder.L.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.002/hlp.ik_holder.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.002/hlp.ik_holder.R.002/ctl.leg_pole.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.002/hlp.ik_holder.R.002/ctl.leg_pole.R.001/ctl.leg_pole.R.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/Box001.016
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/Box001.017
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/Box001.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/Box001.001/Box001.018
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.001/Box001.022
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.001/def.foot.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.001/def.foot.R.002/def.toe.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.001/def.foot.R.002/def.toe.R.001/Box001.010
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.001/def.foot.R.002/def.toe.R.001/def.toe.R.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.003/Box001.021
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.003/def.foot.R.004
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.003/def.foot.R.004/def.heel.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.003/def.foot.R.004/def.heel.R.001/Box001.006
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.003/def.leg.R.001/def.leg.R.002/def.leg.R.003/def.foot_main.R.001/def.foot.R.003/def.foot.R.004/def.heel.R.001/def.heel.R.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.004
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.004/Box001.012
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/def.hip_pivot.R.004/def.hip_pivot.R.004_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/hlp.ik_holder.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/body.C.003/ctl.root.C.001/body.C.004/def.hip_pivot.R.001/hlp.ik_holder.R.001/hlp.ik_holder.R.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.foot.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.foot.L.002/hlp.toe.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.foot.L.002/hlp.toe.L.001/ctl.toe.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.foot.L.002/hlp.toe.L.001/ctl.toe.L.001/ctl.toe.L.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.foot.L.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.foot.L.003/hlp.heel.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.foot.L.003/hlp.heel.L.002/ctl.heel.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.foot.L.003/hlp.heel.L.002/ctl.heel.L.001/ctl.heel.L.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.heel.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.heel.L.002/ctl.heel.L.002_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.toe_point.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.toe_point.L.001/ctl.toe_point.L.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.toe_point.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/ctl.toe_point.L.002/ctl.toe_point.L.002_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002/hlp.heel_roll.L.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002/hlp.heel_roll.L.003/hlp.foot_roll.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002/hlp.heel_roll.L.003/hlp.foot_roll.L.001/hlp.foot_roll.L.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002/hlp.heel_roll.L.003/hlp.foot_roll.L.001/hlp.foot_roll.L.002/hlp.foot.L.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002/hlp.heel_roll.L.003/hlp.foot_roll.L.001/hlp.foot_roll.L.002/hlp.foot.L.003/hlp.foot_ik_target.L.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002/hlp.heel_roll.L.003/hlp.foot_roll.L.001/hlp.foot_roll.L.002/hlp.foot.L.003/hlp.foot_ik_target.L.001/hlp.foot_ik_target.L.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002/hlp.heel_roll.L.003/hlp.foot_roll.L.001/hlp.foot_roll.L.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.002/hlp.heel_roll.L.003/hlp.foot_roll.L.001/hlp.foot_roll.L.003/hlp.foot_roll.L.003_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.004
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.heel_roll.L.001/hlp.heel_roll.L.004/hlp.heel_roll.L.004_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.ik_holder.L.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.L.001/hlp.ik_holder.L.003/hlp.ik_holder.L.003_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.foot.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.foot.R.002/hlp.toe.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.foot.R.002/hlp.toe.R.001/ctl.toe.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.foot.R.002/hlp.toe.R.001/ctl.toe.R.001/ctl.toe.R.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.foot.R.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.foot.R.003/hlp.heel.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.foot.R.003/hlp.heel.R.002/ctl.heel.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.foot.R.003/hlp.heel.R.002/ctl.heel.R.001/ctl.heel.R.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.heel.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.heel.R.002/ctl.heel.R.002_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.toe_point.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.toe_point.R.001/ctl.toe_point.R.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.toe_point.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/ctl.toe_point.R.002/ctl.toe_point.R.002_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002/hlp.heel_roll.R.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002/hlp.heel_roll.R.003/hlp.foot_roll.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002/hlp.heel_roll.R.003/hlp.foot_roll.R.001/hlp.foot_roll.R.002
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002/hlp.heel_roll.R.003/hlp.foot_roll.R.001/hlp.foot_roll.R.002/hlp.foot.R.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002/hlp.heel_roll.R.003/hlp.foot_roll.R.001/hlp.foot_roll.R.002/hlp.foot.R.003/hlp.foot_ik_target.R.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002/hlp.heel_roll.R.003/hlp.foot_roll.R.001/hlp.foot_roll.R.002/hlp.foot.R.003/hlp.foot_ik_target.R.001/hlp.foot_ik_target.R.001_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002/hlp.heel_roll.R.003/hlp.foot_roll.R.001/hlp.foot_roll.R.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.002/hlp.heel_roll.R.003/hlp.foot_roll.R.001/hlp.foot_roll.R.003/hlp.foot_roll.R.003_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.004
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.heel_roll.R.001/hlp.heel_roll.R.004/hlp.heel_roll.R.004_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.ik_holder.R.003
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/ctl.foot.R.001/hlp.ik_holder.R.003/hlp.ik_holder.R.003_end
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/def.hip.C.001
+    m_Weight: 0
+  - m_Path: rig.full_bot.000/ctl.god.C.001/def.hip.C.001/def.hip.C.001_end
+    m_Weight: 0

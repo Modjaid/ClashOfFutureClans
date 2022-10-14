@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: aa4306721040ecc48abc4633649b53bd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bebas Neue Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 03642ab7485377a4cb122ba026a76f33, type: 3}
+  - {fileID: 12800000, guid: e90093246022f8c40ace77f2923c66a8, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

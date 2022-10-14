@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cab00d3f77e21ba4182ed3e5374529a5, type: 3}
+  m_Name: Jiro
+  m_EditorClassIdentifier: 
+  fractionName: Jiro.Inc
+  fractionAvatar: {fileID: 0}
+  units:
+  - name: Jiro.Inc
+    prefab: {fileID: 2379613002551931869, guid: d8218675109f7854f85f94bbc9536729, type: 3}
+    avatar: {fileID: 1996238804905434026, guid: c4f84ffd3b44d7143a917e88545ac7f8, type: 3}
+    mode: {fileID: -6952781513632670662, guid: 191418d8d01748941820f62285a6c9a9, type: 3}
+    cost: 150
+    count: 0
+  - name: JiroPrefab
+    prefab: {fileID: 2379613002551931869, guid: d8218675109f7854f85f94bbc9536729, type: 3}
+    avatar: {fileID: 5264454170442911755, guid: c4f84ffd3b44d7143a917e88545ac7f8, type: 3}
+    mode: {fileID: 1052340935595397719, guid: 191418d8d01748941820f62285a6c9a9, type: 3}
+    cost: 200
+    count: 0
+  buildings:
+  - name: Main Station
+    prefab: {fileID: 7690425090294740984, guid: 9df60df62be8bc64db35e1a347464480, type: 3}
+    armor: 500
+    scale: {x: 4, y: 4}
+    cost: 0
+  - name: Casern
+    prefab: {fileID: -5004036968664658294, guid: 731f94a86fbaefc4c92751df5d7745e5, type: 3}
+    armor: 300
+    scale: {x: 3, y: 3}
+    cost: 0
+  - name: Wall
+    prefab: {fileID: 4233784203041096345, guid: 9eb4cb604ee18464aba3ae6a35dbed95, type: 3}
+    armor: 300
+    scale: {x: 1, y: 1}
+    cost: 0
+  - name: TowerCP
+    prefab: {fileID: -1722040676356899675, guid: fdcaef427d9efc4488b0acc20f7fea9f, type: 3}
+    armor: 420
+    scale: {x: 3, y: 3}
+    cost: 0
+  - name: TowerBP2
+    prefab: {fileID: -1722040676356899675, guid: c682ceb99e0b41340b09b83e76779d89, type: 3}
+    armor: 450
+    scale: {x: 3, y: 3}
+    cost: 0
+  - name: Corner Wall
+    prefab: {fileID: 4233784203041096345, guid: 08daa35b89edc714288ed420cd4eaefb, type: 3}
+    armor: 450
+    scale: {x: 2, y: 2}
+    cost: 0

@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cab00d3f77e21ba4182ed3e5374529a5, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  fractionName: Hammer
+  fractionAvatar: {fileID: 0}
+  units:
+  - name: Hammer
+    prefab: {fileID: 3858480256493726120, guid: 43f86ea7c7f90bc4c84703d19c8ced08, type: 3}
+    avatar: {fileID: 5264454170442911755, guid: c4f84ffd3b44d7143a917e88545ac7f8, type: 3}
+    mode: {fileID: -4228417479344739708, guid: 4f15575f318d9404ca89e7cc990643c9, type: 3}
+    cost: 0
+    count: 1
+  - name: Droid
+    prefab: {fileID: -1281676142241934338, guid: de5f2f99070002d4daad938c30e8f164, type: 3}
+    avatar: {fileID: 21300000, guid: 6d9ce6e3b1eba9e418b9e0c672607d4b, type: 3}
+    mode: {fileID: -4228417479344739708, guid: 4f15575f318d9404ca89e7cc990643c9, type: 3}
+    cost: 0
+    count: 5
+  buildings:
+  - name: Main Station
+    prefab: {fileID: 7690425090294740984, guid: 9df60df62be8bc64db35e1a347464480, type: 3}
+    armor: 500
+    scale: {x: 8, y: 8}
+    cost: 0
+  - name: Casern
+    prefab: {fileID: -5004036968664658294, guid: 731f94a86fbaefc4c92751df5d7745e5, type: 3}
+    armor: 300
+    scale: {x: 6, y: 6}
+    cost: 0
+  - name: Wall
+    prefab: {fileID: 4233784203041096345, guid: 9eb4cb604ee18464aba3ae6a35dbed95, type: 3}
+    armor: 300
+    scale: {x: 2, y: 2}
+    cost: 0
+  - name: TowerCP
+    prefab: {fileID: -1722040676356899675, guid: fdcaef427d9efc4488b0acc20f7fea9f, type: 3}
+    armor: 420
+    scale: {x: 6, y: 6}
+    cost: 0
+  - name: TowerBP2
+    prefab: {fileID: -1722040676356899675, guid: c682ceb99e0b41340b09b83e76779d89, type: 3}
+    armor: 450
+    scale: {x: 6, y: 6}
+    cost: 0
